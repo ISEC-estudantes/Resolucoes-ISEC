@@ -1,8 +1,8 @@
-Caso esteja algum exame em falta, não resolvido ou errado abre um issue.
+Caso esteja algum exame em falta, não resolvido ou errado abre um [issue](/../../issues/).
 
 Aberto a contribuições para resoluções em falta e melhorar respontas (sem adicionar palha).
 
-Tambem podem abrir issues para perguntar e tirar duvidas.
+Tambem podem abrir [issues](/../../issues/) para perguntar e tirar duvidas.
 
 # Exames (status)
 ### POO
