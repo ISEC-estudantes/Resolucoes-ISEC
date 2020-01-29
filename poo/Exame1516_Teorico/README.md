@@ -1,8 +1,8 @@
-Creditos:
-    - Pedro Serrano (2018013491) - `Samega 7Cattac#5961`
+### Creditos:
+Pedro Serrano (2018013491) - `Samega 7Cattac#5961`
 
 
-1.a) 
+## 1.a) 
 ```
 
 ---1---
@@ -16,12 +16,15 @@ perimetro : 0
      area : 0
 ---4---
 ```
-1.b) Na linha `Rectangulo * p2 = new Figura;` Rectangulo espera uma tipo rectangulo e não figura, mesmo que seja classe pai so aceita Rectangulo para baixo na hierarquia.
+## 1.b)
+Na linha `Rectangulo * p2 = new Figura;` espera uma tipo `Rectangulo` e não `Figura`, mesmo que seja classe pai, so aceita `Rectangulo` para baixo na hierarquia.
 
-2) `atribuiEscalao()` na classe "RelogioLuxo" esta a ser usada como `virtual` embora não esteja a ser decralado como tal na classe pai "ItemLuxo".
+## 2)
+`atribuiEscalao()` na classe `RelogioLuxo` esta a ser usada como `virtual` embora não esteja a ser decralado como tal na classe pai `ItemLuxo`.
 
-3) Adicionar na classe em publico:
-```
+## 3)
+Adicionar na classe em publico:
+```cpp
 void operator=(const struct Resgisto &b)
 {
     DonoBi = b.DonoBi;
@@ -30,8 +33,8 @@ void operator=(const struct Resgisto &b)
 }
 ```
 
-4)
-```
+## 4)
+```cpp
 class escola
 {
     struct Aluno * alunos;
@@ -47,10 +50,11 @@ class escola
 };
 ```
 
-5) linha 5, a função `ReceberN()` esta defenida como constante.
+## 5)
+linha 5, a função `ReceberN()` esta defenida como constante.
 
-6) 
-```
+## 6) 
+```cpp
 class fato : public Roupa
 {
     string marca;
