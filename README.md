@@ -2,7 +2,7 @@ Caso esteja algum exame em falta, não resolvido ou errado abre um [issue](/../.
 
 Aberto a contribuições para resoluções em falta e melhorar respontas (sem adicionar palha).
 
-Tambem podem abrir [issues](/../../issues/) para perguntar e tirar duvidas.
+Para duvidas e mais informação: [Discord](https://discord.gg/M9yncY4)
 
 # Exames (status)
 ### IP
